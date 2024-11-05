@@ -1,5 +1,5 @@
 # mahendar9
-Report on Crop Price Forecasting Project
+Report: Crop Price Forecasting Project
 Introduction
 In an effort to support farmers, traders, and policymakers in making informed decisions, a forecasting project has been developed to predict crop prices for the next five years (2024 to 2028). This project utilizes historical price data obtained from the Government of India’s open data portal, data.gov.in, covering the years 2018 to 2023. The forecasting model incorporates two machine learning techniques: Logistic Regression and Random Forest.
 
@@ -20,6 +20,7 @@ Average Metrics:
 Average MAE: 87.6241
 Average MSE: 25327.1874
 Average R²: 0.9516
+
 Random Forest:
 
 An ensemble learning method that constructs multiple decision trees and outputs the mean prediction of individual trees.
