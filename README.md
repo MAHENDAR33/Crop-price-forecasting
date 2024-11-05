@@ -46,3 +46,5 @@ Future iterations of this project could involve:
 Incorporating additional factors such as weather patterns, market demand, and production costs to improve prediction accuracy.
 Implementing cross-validation techniques to further assess model robustness.
 Expanding the application to include more crops and regions, allowing for broader usability.
+
+![Crops price Prediction](https://github.com/MAHENDAR33/mahendar9/blob/main/Screenshot%20(264).png)
