@@ -47,4 +47,6 @@ Incorporating additional factors such as weather patterns, market demand, and pr
 Implementing cross-validation techniques to further assess model robustness.
 Expanding the application to include more crops and regions, allowing for broader usability.
 
+here the web app link: [Visit my project](https://mahendar9-dau53frswt42rxkgnxedqe.streamlit.app/)
+
 ![Crops price Prediction](https://github.com/MAHENDAR33/mahendar9/blob/main/Screenshot%20(264).png)
